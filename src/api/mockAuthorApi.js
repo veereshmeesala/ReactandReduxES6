@@ -10,14 +10,14 @@ const authors = [
     lastName: 'Js'
   },
   {
-    id: 'Chris-Domingo',
-    firstName: 'Chris',
-    lastName: 'Domingo'
+    id: 'scott-allen',
+    firstName: 'Scott',
+    lastName: 'Allen'
   },
   {
-    id: 'Nick-Durnell',
-    firstName: 'Nick',
-    lastName: 'Durnell'
+    id: 'dan-wahlin',
+    firstName: 'Dan',
+    lastName: 'Wahlin'
   }
 ];
 
