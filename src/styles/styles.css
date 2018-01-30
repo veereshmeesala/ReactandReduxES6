@@ -1,10 +1,6 @@
-/* Styles */
-body{
-    color: #fff !important;
-    background-color: #333 !important;
-}
 #app {
   font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #4d4d4d;
 }
 
 nav {
@@ -12,13 +8,9 @@ nav {
 }
 
 .content {
-  padding-top: 60px !important;
+  padding-top: 60px;
 }
 
-a, a:focus, a:hover {
-  color: #fff !important;
-}
-
-.jumbotron {
-   background-color: #333 !important;
+.bg-light{
+  background-color: #f8f9fa;
 }
