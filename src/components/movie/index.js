@@ -12,7 +12,7 @@ class MoviePage extends React.Component {
     super(props);
     this.state = {
         movies: this.props.movies,
-        apikey: '22ab900e', // please use your api key
+        apikey: 'xyz', // please use your api key
         errors: {}
     };
     this.onSubmit = this.onSubmit.bind(this);
